@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fadiferd)
 <!--
 **adiferd/adiferd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
